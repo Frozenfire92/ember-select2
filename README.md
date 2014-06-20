@@ -23,7 +23,9 @@ bower install --save ember-select2
 
 <script src="bower_components/jquery/dist/jquery.js"></script>
 <script src="bower_components/select2/select2.js"></script>
+<script src="bower_components/ember-select2/build/lib.js"></script>
 ```
+**note your version of jquery may differ** 
 
 3) Use in your project
 
