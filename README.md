@@ -33,7 +33,8 @@ bower install --save ember-select2
 {{select-2 content=pizzas value=testResult placeholder="Select one"}}
 ```
 
-See `app/scripts/controllers/index_controller.js` and `app/templates/index.hbs` for exapmles in this repository.  
+See `[index_controller.js](https://github.com/Frozenfire92/ember-select2/blob/master/app/scripts/controllers/index_controller.js)` and `[index.hbs](https://github.com/Frozenfire92/ember-select2/blob/master/app/templates/index.hbs)` for exapmles in this repository. 
+
 See [Here](https://istefo.github.io/ember-select-2/#/examples) for more detailed examples.
 
 
