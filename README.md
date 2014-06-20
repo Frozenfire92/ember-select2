@@ -1,4 +1,4 @@
-Ember Select2
+[Ember Select2](https://github.com/Frozenfire92/ember-select2)
 ==========
 
 This is a fork of [ember-select-2](https://github.com/iStefo/ember-select-2) with minimal changes. The purpose is to provide easier installation into your project, with the end goal being collaboration between the two authors.
